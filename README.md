@@ -1,33 +1,8 @@
- 
+# IW & Game Design - ACTS
+Het is enkele maanden na Order 66 en de val van de Republiek. Onze Venerator Star Destroyer hangt boven de planeet Dathomir, in de zeer onrustige Outer Rim. Aan boord bevindt zich CT_0545894, codenaam Marcus. Je bent een clone trooper in dienst van het Keizerrijk. Wanneer plots rebellen van de Intergalactische Handelsfederatie onze Venerator enteren, is het alle hens aan dek! Je neemt je blaster bij de hand en knalt je een weg doorheen het leger droids. Ontdek geheime kamers, ga op zoek naar nieuwe wapens en uitrusting om jouw vijanden mee te verslaan. Baan je een weg naar jouw heer en meester, Darth Vader! May the force be with you!
 
+De game kan je spelen via volgende link: 
+https://robbew.github.io/SLC_ACTS/
 
-> Open this page at [https://robbew.github.io/slc_acts/](https://robbew.github.io/slc_acts/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/robbew/slc_acts** and import
-
-## Edit this project ![Build status badge](https://github.com/robbew/slc_acts/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/robbew/slc_acts** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/robbew/slc_acts/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+Meer informatie over dit project vind je via volgende link: 
+https://www.robbewulgaert.be/onderwijs/wall-of-game
